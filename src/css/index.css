@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #20B2AA;
+  --color-primary-light: #3CBBA4;
+  --color-primary-dark: #1a9d96;
+  
+  --color-login-bg: #DADADA;
+  --color-login-gradient: #ADEBC4;
+  --color-login-text: #022145;
+  --color-login-text-light: #A1A5B7;
+  --color-login-border: #E5E9EE;
+  --color-login-border-light: #EBEBEB;
+  --color-login-link: #006EEF;
+  --color-login-placeholder: #98A2B3;
+  --color-login-button: #00B77D;
+  
+  --color-register-bg: #DADADA;
+  --color-register-gradient-blue: #AED4EB;
+  --color-register-gradient-purple: #F2ECF8;
+  --color-register-text: #022145;
+  --color-register-text-light: #A1A5B7;
+  --color-register-text-gray: #5E6278;
+  --color-register-border: #E5E9EE;
+  --color-register-border-light: #EBEBEB;
+  --color-register-link: #006EEF;
+  --color-register-link-blue: #3E97FF;
+  --color-register-placeholder: #98A2B3;
+  --color-register-button: #00B77D;
+  --color-register-button-border: #22C55E;
+  
+  --font-heading: 'Manrope', sans-serif;
+  
+  --animate-fade-in-up: fadeInUp 0.6s ease forwards;
+  --animate-fade-in: fadeIn 0.5s ease forwards;
+  --animate-slide-down: slideDown 0.3s ease;
+}
+
+@keyframes fadeInUp {
+  0% { opacity: 0; transform: translateY(30px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes slideDown {
+  0% { opacity: 0; transform: translateY(-10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: #111827;
+  overflow-x: hidden;
+  margin: 0;
+}
