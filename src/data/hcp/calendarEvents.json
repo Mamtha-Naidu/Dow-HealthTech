@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Home Visit John Doe",
+    "date": "2026-04-02",
+    "color": "#12B76A",
+    "patient": "John Doe",
+    "time": "10:00 AM",
+    "status": "Scheduled",
+    "doctor": "Dr. Kwame Doe",
+    "details": "Routine home visit for post-discharge care"
+  },
+  {
+    "id": 2,
+    "title": "Follow-up Alan Bishop",
+    "date": "2026-04-02",
+    "color": "#884605",
+    "patient": "Alan Bishop",
+    "time": "02:00 PM",
+    "status": "Pending",
+    "doctor": "Dr. Sarah Mills",
+    "details": "Post-surgery follow-up consultation"
+  },
+  {
+    "id": 3,
+    "title": "Rehab Session - Linda",
+    "date": "2026-04-07",
+    "color": "#12B76A",
+    "patient": "Linda Gomez",
+    "time": "09:00 AM",
+    "status": "Confirmed",
+    "doctor": "Dr. Kwame Doe",
+    "details": "Shoulder rehabilitation session"
+  },
+  {
+    "id": 4,
+    "title": "Diabetes Check Priya",
+    "date": "2026-04-10",
+    "color": "#0D7DC3",
+    "patient": "Priya Nair",
+    "time": "11:00 AM",
+    "status": "Confirmed",
+    "doctor": "Dr. Sarah Mills",
+    "details": "Quarterly diabetes management review"
+  },
+  {
+    "id": 5,
+    "title": "Home Visit Mary",
+    "date": "2026-04-10",
+    "color": "#12B76A",
+    "patient": "Mary Johnson",
+    "time": "03:00 PM",
+    "status": "Scheduled",
+    "doctor": "Dr. Kwame Doe",
+    "details": "Weekly home-care visit"
+  },
+  {
+    "id": 6,
+    "title": "Cardiac Follow-up James",
+    "date": "2026-04-14",
+    "color": "#884605",
+    "patient": "James Osei",
+    "time": "10:00 AM",
+    "status": "Pending",
+    "doctor": "Dr. Sarah Mills",
+    "details": "Annual cardiac review"
+  },
+  {
+    "id": 7,
+    "title": "General Check-up Mary",
+    "date": "2026-04-17",
+    "color": "#0D7DC3",
+    "patient": "Mary Johnson",
+    "time": "09:30 AM",
+    "status": "Confirmed",
+    "doctor": "Dr. Kwame Doe",
+    "details": "Annual general health check"
+  },
+  {
+    "id": 8,
+    "title": "Therapy Session Linda",
+    "date": "2026-04-20",
+    "color": "#12B76A",
+    "patient": "Linda Gomez",
+    "time": "02:00 PM",
+    "status": "Scheduled",
+    "doctor": "Dr. Sarah Mills",
+    "details": "Continued physical therapy"
+  },
+  {
+    "id": 9,
+    "title": "Cardiology Consult",
+    "date": "2026-04-22",
+    "color": "#0D7DC3",
+    "patient": "James Osei",
+    "time": "11:30 AM",
+    "status": "Confirmed",
+    "doctor": "Dr. Sarah Mills",
+    "details": "Annual cardiac assessment"
+  },
+  {
+    "id": 10,
+    "title": "Diabetes Review Priya",
+    "date": "2026-04-25",
+    "color": "#884605",
+    "patient": "Priya Nair",
+    "time": "10:00 AM",
+    "status": "Pending",
+    "doctor": "Dr. Kwame Doe",
+    "details": "Quarterly diabetes review"
+  }
+]

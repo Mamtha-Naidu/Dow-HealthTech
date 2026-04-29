@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Mary Johnson",
+    "title": "General Check-up",
+    "date": "2026-04-10",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "details": "Routine check-up"
+  },
+  {
+    "id": 2,
+    "name": "Alan Bishop",
+    "title": "Follow-up Visit",
+    "date": "2026-04-14",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "details": "Post-surgery follow-up"
+  },
+  {
+    "id": 3,
+    "name": "Linda Gomez",
+    "title": "Physical Therapy",
+    "date": "2026-04-20",
+    "start": "02:00 PM",
+    "end": "03:00 PM",
+    "details": "Shoulder rehabilitation"
+  },
+  {
+    "id": 4,
+    "name": "James Osei",
+    "title": "Cardiology Consult",
+    "date": "2026-04-22",
+    "start": "09:00 AM",
+    "end": "10:00 AM",
+    "details": "Annual cardiac review"
+  },
+  {
+    "id": 5,
+    "name": "Priya Nair",
+    "title": "Diabetes Management",
+    "date": "2026-04-25",
+    "start": "03:00 PM",
+    "end": "04:00 PM",
+    "details": "Quarterly diabetes check"
+  }
+]

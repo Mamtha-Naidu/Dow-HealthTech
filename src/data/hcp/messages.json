@@ -1,0 +1,8 @@
+[
+  { "id": 1, "sender": "me",   "time": "08:24 PM", "text": "Hi Mary! 👋 Just checking in—how's everything going with your aligners?" },
+  { "id": 2, "sender": "them", "time": "08:24 PM", "text": "Hey Doc! 😄 Things are going well. I've been wearing them around 22 hours a day. I did forget during a short trip last weekend though 😅" },
+  { "id": 3, "sender": "me",   "time": "08:24 PM", "text": "That's okay, small slips happen! As long as you're staying consistent otherwise, you're on track. Let's see… based on your latest scans, your teeth are moving nicely—especially those lower front ones. 👍 Ready for your next set of aligners?" },
+  { "id": 4, "sender": "them", "time": "08:24 PM", "text": "Awesome! Yeah, I'm ready. Should I expect that same tight feeling again?" },
+  { "id": 5, "sender": "me",   "time": "08:24 PM", "text": "Yep! A bit of pressure for the first day or two is totally normal—it means the aligners are doing their job. If it gets too uncomfortable, feel free to take a mild pain reliever." },
+  { "id": 6, "sender": "them", "time": "08:24 PM", "text": "Gotcha! Oh—and one thing… I've been sipping iced coffee with them in. Is that okay? 😬" }
+]

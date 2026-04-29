@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "patient": "Mary Johnson",
+    "activity": "Preparing Medicine",
+    "date": "2026-04-02",
+    "time": "10:00 AM",
+    "details": "Preparing daily medicine dosage for Mama Akousa"
+  },
+  {
+    "id": 2,
+    "patient": "Alan Bishop",
+    "activity": "Family Video Call",
+    "date": "2026-04-02",
+    "time": "10:00 AM",
+    "details": "Organising Family Video Call session for Mama Akousa"
+  },
+  {
+    "id": 3,
+    "patient": "Linda Gomez",
+    "activity": "Preparing Breakfast",
+    "date": "2026-04-03",
+    "time": "08:00 AM",
+    "details": "Preparing special diet breakfast for Linda Gomez"
+  },
+  {
+    "id": 4,
+    "patient": "James Osei",
+    "activity": "Medication Review",
+    "date": "2026-04-07",
+    "time": "02:00 PM",
+    "details": "Review and reconcile current medication regimen"
+  },
+  {
+    "id": 5,
+    "patient": "Priya Nair",
+    "activity": "Blood Sugar Check",
+    "date": "2026-04-10",
+    "time": "09:00 AM",
+    "details": "Daily blood glucose level monitoring"
+  },
+  {
+    "id": 6,
+    "patient": "Mary Johnson",
+    "activity": "Wound Dressing Change",
+    "date": "2026-04-14",
+    "time": "11:00 AM",
+    "details": "Change dressing on post-op wound site"
+  },
+  {
+    "id": 7,
+    "patient": "Linda Gomez",
+    "activity": "Physiotherapy Exercises",
+    "date": "2026-04-20",
+    "time": "03:00 PM",
+    "details": "Guided physiotherapy exercise routine for shoulder"
+  }
+]

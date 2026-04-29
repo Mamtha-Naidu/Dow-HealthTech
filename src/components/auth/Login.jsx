@@ -13,21 +13,23 @@ function Login() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Add your login logic here
     console.log("Login submitted:", { email, password, savePassword });
-    
-    // Extract username from email (or use email as username)
+
+    // Determine role: admin credentials route to HCP-Home
+    const isAdmin =
+      email.toLowerCase() === 'admin' ||
+      email.toLowerCase().startsWith('admin@');
+
     const username = email.includes('@') ? email.split('@')[0] : email;
-    
-    // Store user information
-    login({
-      email,
-      username,
-      // Add any other user data you want to store
-    });
-    
-    // Navigate to plan selection after successful login
-    navigate("/caring-across-continents");
+    const role = isAdmin ? 'admin' : 'caregiver';
+
+    login({ email, username, role });
+
+    if (isAdmin) {
+      navigate('/hcp-home');
+    } else {
+      navigate('/caring-across-continents');
+    }
   };
 
   return (

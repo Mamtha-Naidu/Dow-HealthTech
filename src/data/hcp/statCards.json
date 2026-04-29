@@ -1,0 +1,6 @@
+[
+  { "label": "Total Patients",    "value": "120", "pct": "5%" },
+  { "label": "Appointments",      "value": "120", "pct": "5%" },
+  { "label": "Patient Onboard",   "value": "20",  "pct": "5%" },
+  { "label": "Patient Offboard",  "value": "40",  "pct": "5%" }
+]

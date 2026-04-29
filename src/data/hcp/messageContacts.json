@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Dr. Andrew Wang",   "time": "10:00 am", "preview": "Hi Jhon, please remember to take your medication as prescribed. It's important for your health!", "unread": 2, "bg": "#CFE5F3" },
+  { "id": 2, "name": "Dr. Lewis",         "time": "10:00 am", "preview": "Hi Jhon, please remember to take your medication as prescribed. It's important for your health!", "unread": 2, "bg": "#E0DCFF" },
+  { "id": 3, "name": "Dr. Mark Kelly",    "time": "11:00 am", "preview": "Hi Jhon, your follow-up appointment is scheduled for next week. Please be prepared with any questions.", "unread": 1, "bg": "#D1FCE8" },
+  { "id": 4, "name": "Dr. Lisa Simmons", "time": "11:30 am", "preview": "Hi Jhon, consider incorporating more vegetables into your diet for better health!", "unread": 3, "bg": "#FEE4D8" },
+  { "id": 5, "name": "Dr. Rachel Turner", "time": "12:00 pm", "preview": "Hi Jhon, don't forget to hydrate well this week, especially during your workouts.", "unread": 2, "bg": "#CFE5F3" },
+  { "id": 6, "name": "Dr. George Hill",   "time": "1:00 pm",  "preview": "Hi Jhon, our records indicate a need for a blood test next month. Please keep that in mind.", "unread": 1, "bg": "#E0DCFF" },
+  { "id": 7, "name": "Dr. Maya Thompson", "time": "2:00 pm",  "preview": "Hi Jhon, ensure you are keeping track of your symptoms and share them during our next meeting.", "unread": 2, "bg": "#D1FCE8" },
+  { "id": 8, "name": "Dr. Peter Brown",   "time": "2:30 pm",  "preview": "Hi Jhon, it's essential to maintain your exercise routine. How are you feeling about your progress?", "unread": 3, "bg": "#FEE4D8" },
+  { "id": 9, "name": "Dr. Sarah Carter",  "time": "3:00 pm",  "preview": "Hi Jhon, please remember to schedule your yearly health check-up if you haven't already!", "unread": 1, "bg": "#CFE5F3" },
+  { "id": 10, "name": "Dr. David Nguyen", "time": "4:00 pm",  "preview": "Hi Jhon, I'm here to assist you with any dietary concerns you may have, feel free to reach out!", "unread": 2, "bg": "#E0DCFF" }
+]

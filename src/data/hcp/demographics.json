@@ -1,0 +1,9 @@
+{
+  "totalPatients": 120,
+  "segments": [
+    { "label": "0-18",  "color": "#222E50", "pct": 30 },
+    { "label": "19-35", "color": "#007991", "pct": 25 },
+    { "label": "36-55", "color": "#439A86", "pct": 25 },
+    { "label": "55+",   "color": "#E9D985", "pct": 10 }
+  ]
+}

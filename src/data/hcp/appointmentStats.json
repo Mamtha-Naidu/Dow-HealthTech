@@ -1,0 +1,22 @@
+{
+  "summary": [
+    { "label": "All Appointments", "value": "120" },
+    { "label": "Canceled",         "value": "20"  },
+    { "label": "Reschedule",       "value": "10"  },
+    { "label": "Completed",        "value": "15"  }
+  ],
+  "chart": [
+    { "month": "Jan", "green": 69,  "red": 107, "orange": 159 },
+    { "month": "Feb", "green": 165, "red": 165, "orange": 198 },
+    { "month": "Mar", "green": 100, "red": 165, "orange": 198 },
+    { "month": "Apr", "green": 100, "red": 125, "orange": 149 },
+    { "month": "May", "green": 126, "red": 165, "orange": 158 },
+    { "month": "Jun", "green": 136, "red": 119, "orange": 185 },
+    { "month": "Jul", "green": 100, "red": 133, "orange": 155 },
+    { "month": "Aug", "green": 128, "red": 122, "orange": 161 },
+    { "month": "Sep", "green": 84,  "red": 126, "orange": 154 },
+    { "month": "Oct", "green": 100, "red": 132, "orange": 191 },
+    { "month": "Nov", "green": 66,  "red": 85,  "orange": 126 },
+    { "month": "Dec", "green": 85,  "red": 106, "orange": 128 }
+  ]
+}

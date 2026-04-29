@@ -1,0 +1,251 @@
+{
+  "PT-01": {
+    "mrn": "MJ-1001-085-3A",
+    "primaryCondition": "Cardiology",
+    "conditions": ["Hypertensive", "Obese"],
+    "lastEncounter": "23 May, 2025",
+    "nextAppointment": "02 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "145/92", "unit": "mmHg",  "accent": "#EE445D" },
+      { "label": "Body Temperature",   "value": "37.1",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "82",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "28",     "unit": "kg/m²", "accent": "#DD7403" },
+      { "label": "Oxygen Saturation",  "value": "97%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Jane Smith", "message": "Appointment reminder sent",  "time": "10:00-11:00" },
+      { "type": "WhatsApp", "from": "Dr. Jane Smith", "message": "Follow-up message sent",      "time": "09:30-10:00" },
+      { "type": "Telegram", "from": "Lab Technician", "message": "Lab results shared",          "time": "08:00-09:00" },
+      { "type": "SMS",      "from": "Pharmacy",       "message": "Prescription renewal alert",  "time": "14:00-15:00" },
+      { "type": "WhatsApp", "from": "Dr. Jane Smith", "message": "Vitals check reminder",       "time": "11:00-12:00" },
+      { "type": "SMS",      "from": "Reception",      "message": "Appointment confirmed",        "time": "09:00-10:00" }
+    ]
+  },
+  "PT-02": {
+    "mrn": "AB-1002-078-4B",
+    "primaryCondition": "Oncology",
+    "conditions": ["Diabetic", "Hypertensive"],
+    "lastEncounter": "10 Apr, 2025",
+    "nextAppointment": "03 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "130/85", "unit": "mmHg",  "accent": "#DD7403" },
+      { "label": "Body Temperature",   "value": "36.8",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "75",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "31",     "unit": "kg/m²", "accent": "#EE445D" },
+      { "label": "Oxygen Saturation",  "value": "99%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Alan Brooks", "message": "Follow-up reminder sent",   "time": "10:00-11:00" },
+      { "type": "WhatsApp", "from": "Dr. Alan Brooks", "message": "Medication update shared",   "time": "09:00-10:00" },
+      { "type": "SMS",      "from": "Pharmacy",        "message": "Refill ready for pickup",    "time": "13:00-14:00" },
+      { "type": "Telegram", "from": "Lab Technician",  "message": "Blood work results ready",   "time": "08:00-09:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",       "time": "09:00-10:00" }
+    ]
+  },
+  "PT-03": {
+    "mrn": "LG-1003-092-5C",
+    "primaryCondition": "Endocrinology",
+    "conditions": ["Diabetic", "Obese"],
+    "lastEncounter": "15 Mar, 2025",
+    "nextAppointment": "04 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "118/76", "unit": "mmHg",  "accent": "#12B76A" },
+      { "label": "Body Temperature",   "value": "36.5",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "68",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "34",     "unit": "kg/m²", "accent": "#EE445D" },
+      { "label": "Oxygen Saturation",  "value": "98%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Sara Wells",  "message": "Diet plan reminder",         "time": "08:00-09:00" },
+      { "type": "WhatsApp", "from": "Dr. Sara Wells",  "message": "Insulin dosage updated",      "time": "10:00-11:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",        "time": "09:00-10:00" }
+    ]
+  },
+  "PT-04": {
+    "mrn": "JC-1004-065-6D",
+    "primaryCondition": "Cardiology",
+    "conditions": ["Hypertensive", "Diabetic", "Obese"],
+    "lastEncounter": "05 Feb, 2025",
+    "nextAppointment": "05 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "158/98", "unit": "mmHg",  "accent": "#EE445D" },
+      { "label": "Body Temperature",   "value": "37.3",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "90",     "unit": "BPM",   "accent": "#DD7403" },
+      { "label": "Body Mass Index",    "value": "33",     "unit": "kg/m²", "accent": "#EE445D" },
+      { "label": "Oxygen Saturation",  "value": "95%",    "unit": "SpO2",  "accent": "#DD7403" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Mark Ellis",  "message": "ECG scheduled",               "time": "09:00-10:00" },
+      { "type": "Telegram", "from": "Lab Technician",  "message": "Cardiac panel results",        "time": "08:00-09:00" },
+      { "type": "SMS",      "from": "Pharmacy",        "message": "Beta blocker refill ready",    "time": "13:00-14:00" },
+      { "type": "WhatsApp", "from": "Dr. Mark Ellis",  "message": "Diet restriction reminder",    "time": "11:00-12:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",         "time": "09:00-10:00" }
+    ]
+  },
+  "PT-05": {
+    "mrn": "SL-1005-090-7E",
+    "primaryCondition": "Pulmonology",
+    "conditions": ["Asthmatic"],
+    "lastEncounter": "20 Apr, 2025",
+    "nextAppointment": "06 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "112/72", "unit": "mmHg",  "accent": "#12B76A" },
+      { "label": "Body Temperature",   "value": "36.6",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "72",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "22",     "unit": "kg/m²", "accent": "#12B76A" },
+      { "label": "Oxygen Saturation",  "value": "96%",    "unit": "SpO2",  "accent": "#DD7403" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Nina Cole",   "message": "Inhaler prescription renewed",  "time": "10:00-11:00" },
+      { "type": "WhatsApp", "from": "Dr. Nina Cole",   "message": "Spirometry results shared",      "time": "09:00-10:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",           "time": "09:00-10:00" }
+    ]
+  },
+  "PT-06": {
+    "mrn": "RK-1006-083-8F",
+    "primaryCondition": "Nephrology",
+    "conditions": ["Hypertensive", "CKD Stage 2"],
+    "lastEncounter": "01 May, 2025",
+    "nextAppointment": "07 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "150/95", "unit": "mmHg",  "accent": "#EE445D" },
+      { "label": "Body Temperature",   "value": "37.0",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "78",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "26",     "unit": "kg/m²", "accent": "#12B76A" },
+      { "label": "Oxygen Saturation",  "value": "98%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Ryan Perez",  "message": "Kidney function recheck due",   "time": "10:00-11:00" },
+      { "type": "Telegram", "from": "Lab Technician",  "message": "Creatinine results ready",       "time": "08:00-09:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",           "time": "09:00-10:00" }
+    ]
+  },
+  "PT-07": {
+    "mrn": "PN-1007-095-9G",
+    "primaryCondition": "Neurology",
+    "conditions": ["Migraines", "Anxiety"],
+    "lastEncounter": "12 Apr, 2025",
+    "nextAppointment": "08 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "110/70", "unit": "mmHg",  "accent": "#12B76A" },
+      { "label": "Body Temperature",   "value": "36.4",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "65",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "21",     "unit": "kg/m²", "accent": "#12B76A" },
+      { "label": "Oxygen Saturation",  "value": "99%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Lena Ford",   "message": "MRI results available",          "time": "09:00-10:00" },
+      { "type": "WhatsApp", "from": "Dr. Lena Ford",   "message": "Medication dosage reminder",      "time": "10:00-11:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",            "time": "09:00-10:00" }
+    ]
+  },
+  "PT-08": {
+    "mrn": "JO-1008-070-0H",
+    "primaryCondition": "Orthopedics",
+    "conditions": ["Arthritis", "Obese"],
+    "lastEncounter": "18 Mar, 2025",
+    "nextAppointment": "09 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "135/88", "unit": "mmHg",  "accent": "#DD7403" },
+      { "label": "Body Temperature",   "value": "37.2",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "80",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "36",     "unit": "kg/m²", "accent": "#EE445D" },
+      { "label": "Oxygen Saturation",  "value": "97%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Ben Nash",    "message": "X-ray results reviewed",         "time": "10:00-11:00" },
+      { "type": "Telegram", "from": "Lab Technician",  "message": "Bone density scan scheduled",    "time": "08:00-09:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",            "time": "09:00-10:00" }
+    ]
+  },
+  "PT-09": {
+    "mrn": "EC-1009-088-1I",
+    "primaryCondition": "Gastroenterology",
+    "conditions": ["GERD", "IBS"],
+    "lastEncounter": "25 Apr, 2025",
+    "nextAppointment": "10 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "120/78", "unit": "mmHg",  "accent": "#12B76A" },
+      { "label": "Body Temperature",   "value": "36.7",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "70",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "24",     "unit": "kg/m²", "accent": "#12B76A" },
+      { "label": "Oxygen Saturation",  "value": "98%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "WhatsApp", "from": "Dr. Sue Chang",   "message": "Diet plan updated",              "time": "09:00-10:00" },
+      { "type": "SMS",      "from": "Pharmacy",        "message": "Antacid prescription ready",      "time": "13:00-14:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",            "time": "09:00-10:00" }
+    ]
+  },
+  "PT-10": {
+    "mrn": "MT-1010-075-2J",
+    "primaryCondition": "Urology",
+    "conditions": ["Hypertensive", "Diabetic"],
+    "lastEncounter": "08 Apr, 2025",
+    "nextAppointment": "11 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "140/90", "unit": "mmHg",  "accent": "#DD7403" },
+      { "label": "Body Temperature",   "value": "37.0",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "76",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "29",     "unit": "kg/m²", "accent": "#DD7403" },
+      { "label": "Oxygen Saturation",  "value": "97%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Tom Hayes",   "message": "PSA test results available",     "time": "10:00-11:00" },
+      { "type": "Telegram", "from": "Lab Technician",  "message": "Urinalysis results shared",       "time": "08:00-09:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",            "time": "09:00-10:00" }
+    ]
+  },
+  "PT-11": {
+    "mrn": "GM-1011-093-3K",
+    "primaryCondition": "Dermatology",
+    "conditions": ["Eczema", "Allergic Rhinitis"],
+    "lastEncounter": "14 May, 2025",
+    "nextAppointment": "12 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "115/74", "unit": "mmHg",  "accent": "#12B76A" },
+      { "label": "Body Temperature",   "value": "36.5",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "67",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "20",     "unit": "kg/m²", "accent": "#12B76A" },
+      { "label": "Oxygen Saturation",  "value": "99%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "WhatsApp", "from": "Dr. Amy Stone",   "message": "Topical cream prescribed",       "time": "10:00-11:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",            "time": "09:00-10:00" }
+    ]
+  },
+  "PT-12": {
+    "mrn": "DP-1012-080-4L",
+    "primaryCondition": "Psychiatry",
+    "conditions": ["Depression", "Anxiety", "Insomnia"],
+    "lastEncounter": "30 Apr, 2025",
+    "nextAppointment": "13 Jul, 2025",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "122/80", "unit": "mmHg",  "accent": "#12B76A" },
+      { "label": "Body Temperature",   "value": "36.6",   "unit": "°C",    "accent": "#12B76A" },
+      { "label": "Resting Heart Rate", "value": "73",     "unit": "BPM",   "accent": "#12B76A" },
+      { "label": "Body Mass Index",    "value": "23",     "unit": "kg/m²", "accent": "#12B76A" },
+      { "label": "Oxygen Saturation",  "value": "98%",    "unit": "SpO2",  "accent": "#12B76A" }
+    ],
+    "activity": [
+      { "type": "SMS",      "from": "Dr. Kim Lee",     "message": "Therapy session reminder",       "time": "09:00-10:00" },
+      { "type": "WhatsApp", "from": "Dr. Kim Lee",     "message": "Medication compliance reminder",  "time": "10:00-11:00" },
+      { "type": "SMS",      "from": "Reception",       "message": "Appointment confirmed",            "time": "09:00-10:00" }
+    ]
+  },
+  "default": {
+    "mrn": "N/A",
+    "primaryCondition": "General",
+    "conditions": ["Unknown"],
+    "lastEncounter": "N/A",
+    "nextAppointment": "N/A",
+    "vitals": [
+      { "label": "Blood Pressure",     "value": "—", "unit": "mmHg",  "accent": "#9E9E9E" },
+      { "label": "Body Temperature",   "value": "—", "unit": "°C",    "accent": "#9E9E9E" },
+      { "label": "Resting Heart Rate", "value": "—", "unit": "BPM",   "accent": "#9E9E9E" },
+      { "label": "Body Mass Index",    "value": "—", "unit": "kg/m²", "accent": "#9E9E9E" },
+      { "label": "Oxygen Saturation",  "value": "—", "unit": "SpO2",  "accent": "#9E9E9E" }
+    ],
+    "activity": []
+  }
+}
